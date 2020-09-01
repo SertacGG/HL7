@@ -1,0 +1,3 @@
+com\erc\integration\HibernateUtil.class
+com\erc\integration\MindrayMessage.class
+com\erc\integration\HL7Listener.class
